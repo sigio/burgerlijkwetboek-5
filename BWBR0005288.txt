@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 5
-Geldend van 01-08-2003 t/m 30-06-2004
+Geldend van 01-07-2004 t/m 30-04-2005
 
 Burgerlijk Wetboek Boek 5, Zakelijke rechten
 
@@ -587,7 +587,7 @@ Artikel 91
 
 3.	Een beding als in de vorige leden bedoeld kan ook worden gemaakt ten aanzien van de appartementsrechten, waarin een gebouw door de erfpachter wordt gesplitst. Het kan slechts aan een verkrijger onder bijzondere titel van een recht op het appartementsrecht worden tegengeworpen, indien het in de akte van splitsing is omschreven.
 
-4.	Indien de eigenaar de vereiste toestemming zonder redelijke gronden weigert of zich niet verklaart, kan zijn toestemming op verzoek van degene die haar behoeft, worden vervangen door een machtiging van de kantonrechter binnen wiens rechtsgebied de zaak of het grootste gedeelte daarvan is gelegen.
+4.	Indien de eigenaar de vereiste toestemming zonder redelijke gronden weigert of zich niet verklaart, kan zijn toestemming op verzoek van degene die haar behoeft, worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin de zaak of het grootste gedeelte daarvan is gelegen.
 
 Artikel 92
 
@@ -709,7 +709,7 @@ Artikel 106
 
 5.	Onder gebouw wordt in deze titel mede verstaan een groep van gebouwen die in één splitsing zijn betrokken.
 
-6.	Een erfpachter of opstaller is tot een splitsing in appartementsrechten slechts bevoegd na verkregen toestemming van de grondeigenaar. Indien deze de vereiste toestemming kennelijk zonder redelijke grond weigert of zich niet verklaart, kan de toestemming op verzoek van degene die haar behoeft worden vervangen door een machtiging van de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.
+6.	Een erfpachter of opstaller is tot een splitsing in appartementsrechten slechts bevoegd na verkregen toestemming van de grondeigenaar. Indien deze de vereiste toestemming kennelijk zonder redelijke grond weigert of zich niet verklaart, kan de toestemming op verzoek van degene die haar behoeft worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
 
 Artikel 107
 
@@ -838,13 +838,13 @@ Artikel 120
 
 2.	Voorschriften van het reglement omtrent gebruik, beheer en onderhoud zijn ook van toepassing op degeen die het gebruik verkrijgt. Andere bepalingen van het reglement kunnen in het reglement op de gebruiker van toepassing worden verklaard.
 
-3.	Ten aanzien van een huurder geldt een na het tot stand komen van de huurovereenkomst ingeschreven reglementsbepaling niet, tenzij hij daarin heeft toegestemd. Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste deel daarvan is gelegen, op verzoek van iedere appartementseigenaar beslissen dat de reglementsbepaling ten aanzien van de huurder komt te gelden.
+3.	Ten aanzien van een huurder geldt een na het tot stand komen van de huurovereenkomst ingeschreven reglementsbepaling niet, tenzij hij daarin heeft toegestemd. Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste deel daarvan is gelegen, op verzoek van iedere appartementseigenaar beslissen dat de reglementsbepaling ten aanzien van de huurder komt te gelden.
 
 4.	Na opheffing van de splitsing zijn de gerechtigden tot de goederen die in de splitsing waren betrokken, verplicht een verhuur gestand te doen, mits de tijd van de verhuur in overeenstemming is met het plaatselijk gebruik en de verhuur niet op ongewone, voor hem bezwarende voorwaarden is geschied.
 
 Artikel 121
 
-1.	In alle gevallen waarin een appartementseigenaar voor het verrichten van een bepaalde handeling met betrekking tot de gedeelten die niet bestemd zijn als afzonderlijk geheel gebruikt te worden en, in het geval van een beding als bedoeld in artikel 112 lid 4, met betrekking tot gedeelten die bestemd zijn als afzonderlijk geheel gebruikt te worden, medewerking of toestemming behoeft van een of meer andere appartementseigenaars, van de vereniging van eigenaars of van haar organen, of waarin de vereniging of haar organen voor het verrichten van zodanige handeling toestemming behoeven van een of meer appartementseigenaars, kan die medewerking of toestemming op verzoek van degeen die haar behoeft, worden vervangen door een machtiging van de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen. De machtiging kan worden verleend, indien de medewerking of toestemming zonder redelijke grond wordt geweigerd of degene die haar moet geven zich niet verklaart.
+1.	In alle gevallen waarin een appartementseigenaar voor het verrichten van een bepaalde handeling met betrekking tot de gedeelten die niet bestemd zijn als afzonderlijk geheel gebruikt te worden en, in het geval van een beding als bedoeld in artikel 112 lid 4, met betrekking tot gedeelten die bestemd zijn als afzonderlijk geheel gebruikt te worden, medewerking of toestemming behoeft van een of meer andere appartementseigenaars, van de vereniging van eigenaars of van haar organen, of waarin de vereniging of haar organen voor het verrichten van zodanige handeling toestemming behoeven van een of meer appartementseigenaars, kan die medewerking of toestemming op verzoek van degeen die haar behoeft, worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen. De machtiging kan worden verleend, indien de medewerking of toestemming zonder redelijke grond wordt geweigerd of degene die haar moet geven zich niet verklaart.
 
 2.	Gaat de handeling met kosten gepaard, dan kan de kantonrechter op verzoek van een appartementseigenaar of van de vereniging van eigenaars tevens bepalen in welke verhouding alle of bepaalde appartementseigenaars of de vereniging van eigenaars in de kosten moeten bijdragen.
 
@@ -918,7 +918,7 @@ Artikel 129
 
 Artikel 130
 
-1.	In afwijking van artikel 15 lid 3 van Boek 2 geschiedt de vernietiging van een besluit van een orgaan van de vereniging van eigenaars door een uitspraak van de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen, op verzoek van degene die de vernietiging krachtens dit lid kan vorderen.
+1.	In afwijking van artikel 15 lid 3 van Boek 2 geschiedt de vernietiging van een besluit van een orgaan van de vereniging van eigenaars door een uitspraak van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen, op verzoek van degene die de vernietiging krachtens dit lid kan vorderen.
 
 2.	Het verzoek tot vernietiging moet worden gedaan binnen een maand na de dag waarop de verzoeker van het besluit heeft kennis genomen of heeft kunnen kennis nemen.
 
@@ -975,7 +975,7 @@ Artikel 136
 
 Artikel 138
 
-Geschillen over herstel of de wijze van herstel beslist de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen, op verzoek van de meest gerede partij. Hoger beroep kan slechts worden ingesteld binnen een maand na de dagtekening van de eindbeschikking.
+Geschillen over herstel of de wijze van herstel beslist de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen, op verzoek van de meest gerede partij. Hoger beroep kan slechts worden ingesteld binnen een maand na de dagtekening van de eindbeschikking.
 
 Afdeling 4. Wijziging van de akte van splitsing en opheffing van de splitsing
 
@@ -989,7 +989,7 @@ Artikel 139
 
 Artikel 140
 
-1.	Indien een of meer der in het eerste lid van het vorige artikel genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen, kan deze worden vervangen door een machtiging van de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.
+1.	Indien een of meer der in het eerste lid van het vorige artikel genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen, kan deze worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
 
 2.	De machtiging kan slechts worden verleend op verzoek van een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt.
 
@@ -1021,7 +1021,7 @@ Artikel 143
 
 Artikel 144
 
-1.	Op verzoek van een persoon wiens medewerking of toestemming tot de wijziging van de akte van splitsing of tot opheffing van de splitsing is vereist, kan de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen, bevelen dat de akte van splitsing wordt gewijzigd dan wel de splitsing wordt opgeheven:
+1.	Op verzoek van een persoon wiens medewerking of toestemming tot de wijziging van de akte van splitsing of tot opheffing van de splitsing is vereist, kan de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen, bevelen dat de akte van splitsing wordt gewijzigd dan wel de splitsing wordt opgeheven:
 	a.	wanneer de akte van splitsing niet voldoet aan de in de artikelen 111 en 112 gestelde vereisten;
 	b.	wanneer uit de inrichting van de gedeelten van het gebouw die bestemd zijn als afzonderlijk geheel te worden gebruikt, deze bestemming niet blijkt;
 	c.	wanneer de bouw of inrichting van het gebouw dan wel de inrichting van de daarbij behorende grond niet of niet meer beantwoordt aan de omschrijving in de akte van splitsing;
