@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 5
-Geldend van 01-07-2004 t/m 30-04-2005
+Geldend van 01-05-2005 t/m 31-01-2007
 
 Burgerlijk Wetboek Boek 5, Zakelijke rechten
 
@@ -701,15 +701,17 @@ Artikel 106
 
 1.	Een eigenaar, erfpachter of opstaller is bevoegd zijn recht op een gebouw met toebehoren en op de daarbij behorende grond met toebehoren te splitsen in appartementsrechten.
 
-2.	Een appartementsrecht is op zijn beurt voor splitsing in appartementsrechten vatbaar. Een appartementseigenaar is hiertoe bevoegd, voor zover in de akte van splitsing niet anders is bepaald.
+2.	Een eigenaar, erfpachter of opstaller is eveneens bevoegd zijn recht op een stuk grond te splitsen in appartementsrechten.
 
-3.	Onder appartementsrecht wordt verstaan een aandeel in de goederen die in de splitsing zijn betrokken, dat de bevoegdheid omvat tot het uitsluitend gebruik van bepaalde gedeelten van het gebouw die blijkens hun inrichting bestemd zijn of worden om als afzonderlijk geheel te worden gebruikt. Het aandeel kan mede omvatten de bevoegdheid tot het uitsluitend gebruik van bepaalde gedeelten van de bij het gebouw behorende grond.
+3.	Een appartementsrecht is op zijn beurt voor splitsing in appartementsrechten vatbaar. Een appartementseigenaar is tot deze ondersplitsing bevoegd, voor zover in de akte van splitsing niet anders is bepaald.
 
-4.	Onder appartementseigenaar wordt verstaan de gerechtigde tot een appartementsrecht.
+4.	Onder appartementsrecht wordt verstaan een aandeel in de goederen die in de splitsing zijn betrokken, dat de bevoegdheid omvat tot het uitsluitend gebruik van bepaalde gedeelten van het gebouw die blijkens hun inrichting bestemd zijn of worden om als afzonderlijk geheel te worden gebruikt. Het aandeel kan mede omvatten de bevoegdheid tot het uitsluitend gebruik van bepaalde gedeelten van de bij het gebouw behorende grond. In het geval van lid 2 omvat het aandeel de bevoegdheid tot het uitsluitend gebruik van bepaalde gedeelten van het stuk grond, die blijkens hun inrichting of aanduiding bestemd zijn of worden om als afzonderlijk geheel te worden gebruikt.
 
-5.	Onder gebouw wordt in deze titel mede verstaan een groep van gebouwen die in één splitsing zijn betrokken.
+5.	Onder appartementseigenaar wordt verstaan de gerechtigde tot een appartementsrecht.
 
-6.	Een erfpachter of opstaller is tot een splitsing in appartementsrechten slechts bevoegd na verkregen toestemming van de grondeigenaar. Indien deze de vereiste toestemming kennelijk zonder redelijke grond weigert of zich niet verklaart, kan de toestemming op verzoek van degene die haar behoeft worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
+6.	Onder gebouw wordt in deze titel mede verstaan een groep van gebouwen die in één splitsing zijn betrokken.
+
+7.	Een erfpachter of opstaller is tot een splitsing in appartementsrechten slechts bevoegd na verkregen toestemming van de grondeigenaar. Indien deze de vereiste toestemming kennelijk zonder redelijke grond weigert of zich niet verklaart, kan de toestemming op verzoek van degene die haar behoeft worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
 
 Artikel 107
 
@@ -717,7 +719,7 @@ Een eigenaar, erfpachter of opstaller is ook bevoegd in verband met een door hem
 
 Artikel 108
 
-1.	De appartementseigenaars zijn jegens elkander verplicht de bouw en de inrichting van het gebouw en de daarbij behorende grond tot stand te brengen en in stand te houden in overeenstemming met het daaromtrent in de akte van splitsing bepaalde.
+1.	De appartementseigenaars zijn jegens elkander verplicht de bouw, de inrichting van het gebouw of de inrichting of aanduiding van de grond tot stand te brengen en in stand te houden in overeenstemming met het daaromtrent in de akte van splitsing bepaalde.
 
 2.	De rechter kan de uitspraak op een vordering, gegrond op het vorige lid, aanhouden wanneer een op artikel 144 lid 1 onder c, d of h gegrond verzoek aanhangig is.
 
@@ -738,8 +740,8 @@ Artikel 110
 Artikel 111
 
 De akte van splitsing moet inhouden:
-	a.	de vermelding van de plaatselijke ligging van het gebouw;
-	b.	een nauwkeurige omschrijving van de gedeelten van de onroerende zaken die bestemd zijn om als afzonderlijk geheel te worden gebruikt, welke omschrijving kan plaatsvinden door verwijzing naar de in artikel 109 lid 2 bedoelde tekening, alsmede de vermelding voor elk dier gedeelten, tot welk appartementsrecht de bevoegdheid tot gebruik daarvan behoort;
+	a.	de vermelding van de plaatselijke ligging van het gebouw of de grond;
+	b.	een nauwkeurige omschrijving van de onderscheiden gedeelten van het gebouw of de grond, die bestemd zijn om als afzonderlijk geheel te worden gebruikt, welke omschrijving kan plaatsvinden door verwijzing naar de in artikel 109 lid 2 bedoelde tekening, alsmede de vermelding voor elk dier gedeelten, tot welk appartementsrecht de bevoegdheid tot gebruik daarvan behoort;
 	c.	de kadastrale aanduiding van de appartementsrechten en de vermelding van de appartementseigenaar;
 	d.	een reglement, waartoe geacht worden te behoren de bepalingen van een nauwkeurig aangeduid modelreglement dat is ingeschreven in de openbare registers ter plaatse waar de akte moet worden ingeschreven.
 
@@ -756,7 +758,7 @@ Artikel 112
 	a.	de naam van de vereniging en de gemeente waar zij haar zetel heeft. De naam van de vereniging moet aanvangen met de woorden: "Vereniging van Eigenaars", hetzij voluit geschreven, hetzij afgekort tot "V. v. E.", en voorts melding maken van de ligging van het gebouw;
 	b.	het doel van de vereniging;
 	c.	een regeling omtrent door de appartementseigenaars periodiek, tenminste jaarlijks, aan de vereniging verschuldigde bijdragen;
-	d.	de wijze van bijeenroeping van de algemene vergadering en de bepaling van het aantal stemmen dat ieder der appartementseigenaars in de vergadering kan uitbrengen.
+	d.	de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling van het aantal stemmen dat ieder der appartementseigenaars in de vergadering kan uitbrengen.
 
 3.	Het reglement kan een regeling inhouden, krachtens welke aan alle of bepaalde appartementsrechten mede verbonden is het lidmaatschap van een andere, nader in het reglement omschreven vereniging of coöperatie, voor zover dit lidmaatschap in overeenstemming is met de statuten van die vereniging of coöperatie.
 
@@ -764,7 +766,7 @@ Artikel 112
 
 Artikel 113
 
-1.	De aandelen die door de splitsing in appartementsrechten ontstaan, zijn gelijk, tenzij bij de akte van splitsing een andere verhouding is bepaald.
+1.	De aandelen die door de splitsing in appartementsrechten ontstaan, zijn gelijk, tenzij bij de akte van splitsing een andere verhouding is bepaald. In het laatste geval blijkt uit de akte op welke grondslag die verhouding berust.
 
 2.	In de schulden en kosten die ingevolge de wet of het reglement voor rekening van de gezamenlijke appartementseigenaars komen, moeten zij onderling en jegens de vereniging van eigenaars voor elk appartementsrecht een gelijk deel bijdragen, tenzij daarvoor bij het reglement een andere verhouding is bepaald.
 
@@ -822,6 +824,14 @@ Artikel 118
 
 3.	De in dit artikel bedoelde erfdienstbaarheden gaan teniet, wanneer de bevoegdheid tot uitsluitend gebruik van het gedeelte dat met de erfdienstbaarheid is belast of ten behoeve waarvan de erfdienstbaarheid is bedongen eindigt.
 
+Artikel 118a
+
+1.	Een appartementseigenaar kan, voor zover in de akte van splitsing niet anders is bepaald, zonder medewerking van de overige appartementseigenaars en beperkt gerechtigden op het gedeelte van de onroerende zaken dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, een recht van erfpacht en, behoudens voor zover het betreft in de splitsing betrokken gebouwen, werken en beplantingen, een recht van opstal vestigen.
+
+2.	In de akte van vestiging van het recht wordt bepaald in hoeverre de gerechtigde naast de appartementseigenaar hoofdelijk aansprakelijk is voor de ter zake van het appartementsrecht verschuldigde bijdragen.
+
+3.	Tenzij bij de vestiging van het recht van erfpacht anders wordt bepaald, wordt het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de erfpachter. Tenzij bij de vestiging van het recht van opstal anders wordt bepaald, behoudt de appartementseigenaar die een recht van opstal heeft gevestigd, het aan zijn appartementsrecht verbonden stemrecht in de vergadering van eigenaars.
+
 Artikel 119
 
 1.	Een appartementseigenaar mag zonder toestemming van de overige appartementseigenaars in een gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, veranderingen aanbrengen, mits deze geen nadeel aan een ander gedeelte toebrengen. Van hetgeen hij bij een geoorloofde verandering wegneemt wordt hij enig eigenaar.
@@ -840,7 +850,7 @@ Artikel 120
 
 3.	Ten aanzien van een huurder geldt een na het tot stand komen van de huurovereenkomst ingeschreven reglementsbepaling niet, tenzij hij daarin heeft toegestemd. Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste deel daarvan is gelegen, op verzoek van iedere appartementseigenaar beslissen dat de reglementsbepaling ten aanzien van de huurder komt te gelden.
 
-4.	Na opheffing van de splitsing zijn de gerechtigden tot de goederen die in de splitsing waren betrokken, verplicht een verhuur gestand te doen, mits de tijd van de verhuur in overeenstemming is met het plaatselijk gebruik en de verhuur niet op ongewone, voor hem bezwarende voorwaarden is geschied.
+4.	Na opheffing van de splitsing zijn de gerechtigden tot de goederen die in de splitsing waren betrokken, verplicht een verhuur gestand te doen, mits de tijd van de verhuur in overeenstemming is met het plaatselijk gebruik en de verhuur niet op ongewone, voor hen bezwarende voorwaarden is geschied.
 
 Artikel 121
 
@@ -860,6 +870,10 @@ Artikel 122
 
 4.	In het reglement kan worden bepaald in hoeverre voor bijdragen, genoemd in het vorige lid, alleen de vroegere eigenaar of alleen de verkrijger aansprakelijk zal zijn. In het reglement kan ook worden bepaald dat voor bepaalde bijdragen die later opeisbaar worden de vroegere appartementseigenaar in plaats van de verkrijger verbonden zal zijn.
 
+5.	De notaris draagt zorg dat aan de akte van overdracht of toedeling een door het bestuur van de vereniging van eigenaars afgegeven verklaring wordt gehecht, die met betrekking tot de in lid 3 genoemde bijdragen waarvoor de verkrijger aansprakelijk zal zijn, een opgave inhoudt van hetgeen de betrokken appartementseigenaar op de dag van de overdracht of toedeling aan de vereniging schuldig is. De verkrijger is jegens de vereniging niet verder aansprakelijk dan tot het bedrag dat uit de opgave blijkt.
+
+6.	De verklaring houdt tevens een opgave in van de omvang van het reservefonds van de vereniging, bedoeld in artikel 126 lid 1.
+
 Artikel 123
 
 1.	In geval van vruchtgebruik van een appartementsrecht treedt de vruchtgebruiker in de plaats van de appartementseigenaar ten aanzien van de aansprakelijkheid voor de gezamenlijke schulden en de aan de gezamenlijke appartementseigenaars en de vereniging van eigenaars verschuldigde bijdragen. De vruchtgebruiker is echter bevoegd de door hem betaalde bedragen, voor zover zij niet betrekking hebben op de gewone lasten en herstellingen, bij het einde van het vruchtgebruik van de appartementseigenaar terug te vorderen.
@@ -876,7 +890,7 @@ Artikel 124
 
 1.	De vereniging van eigenaars is een rechtspersoon.
 
-2.	Titel 1 van Boek 2 is slechts van toepassing behoudens de artikelen 4, 6, 13 lid 2, 17, 18, 19 leden 1-3, lid 5, tweede zin, en lid 6, 20, 21 en 22 en met inachtneming van de in de volgende artikelen van de onderhavige titel aangegeven afwijkingen.
+2.	Titel 1 van Boek 2 is van toepassing behoudens de artikelen 4, 6, 13 lid 2, 17, 18, 19 leden 1-3, lid 4, tweede zin, lid 6, tweede zin, en lid 7, 20, 21 en 22 en met inachtneming van de in de volgende artikelen van de onderhavige titel aangegeven afwijkingen.
 
 3.	Titel 2 van Boek 2 is slechts van toepassing voor zover de onderhavige afdeling daarnaar verwijst.
 
@@ -886,13 +900,11 @@ Artikel 125
 
 2.	Iedere appartementseigenaar is van rechtswege lid van de vereniging van eigenaars. Wanneer een lid ophoudt appartementseigenaar te zijn, eindigt zijn lidmaatschap van rechtswege.
 
-3.	Behoren op het tijdstip van de inschrijving van de akte van splitsing alle appartementsrechten nog aan één persoon of dezelfde personen toe, dan ontstaat de vereniging eerst zodra de appartementsrechten aan verschillende personen toebehoren.
-
-4.	Artikel 40 lid 2 van Boek 2 is van toepassing.
+3.	Artikel 40 lid 2 van Boek 2 is van toepassing.
 
 Artikel 126
 
-1.	De vereniging van eigenaars voert het beheer over de gemeenschap, met uitzondering van de gedeelten die bestemd zijn als afzonderlijk geheel te worden gebruikt.
+1.	De vereniging van eigenaars voert het beheer over de gemeenschap, met uitzondering van de gedeelten die bestemd zijn als afzonderlijk geheel te worden gebruikt. De vereniging houdt een reservefonds in stand ter bestrijding van andere dan de gewone jaarlijkse kosten.
 
 2.	De vereniging kan binnen de grenzen van haar bevoegdheid de gezamenlijke appartementseigenaars in en buiten rechte vertegenwoordigen.
 
@@ -903,6 +915,8 @@ Artikel 127
 1.	Alle appartementseigenaars hebben toegang tot de vergadering van eigenaars. De besluiten worden genomen bij volstrekte meerderheid van de uitgebrachte stemmen, voor zover de statuten niet anders bepalen.
 
 2.	Tenzij de statuten anders bepalen, wordt de voorzitter van de vergadering van eigenaars door de vergadering uit de leden der vereniging benoemd. Zowel de voorzitter als het bestuur van de vereniging zijn bevoegd de vergadering bijeen te roepen.
+
+3.	In geval van ondersplitsing komen de stemmen van de appartementseigenaar wiens recht is gesplitst, toe aan de gerechtigden tot de door de ondersplitsing ontstane appartementsrechten. Deze stemmen worden in de vergadering van eigenaars uitgebracht door het bestuur van de bij de ondersplitsing opgerichte vereniging van eigenaars. De stemmen behoeven niet eensluidend te worden uitgebracht. De gerechtigden tot de door de ondersplitsing ontstane appartementsrechten zijn bevoegd de vergadering van eigenaars bij te wonen. Het bestuur, bedoeld in de tweede zin, is bevoegd om in de vergadering het woord te voeren.
 
 Artikel 128
 
@@ -962,7 +976,7 @@ Artikel 136
 
 1.	Hij, die krachtens het reglement verplicht is het gebouw te doen verzekeren, vertegenwoordigt de gezamenlijke appartementseigenaars bij de uitoefening van de rechten die uit de verzekeringsovereenkomst voortvloeien, en voert voor hen het beheer over de ontvangen verzekeringspenningen.
 
-2.	Zodra tot herstel is besloten, worden de verzekeringspenningen tot dit doel aangewend, met dien verstande dat de verhouding van de waarde van de appartementsrechten na het herstel dezelfde moet zijn als tevoren. Bij de berekening van die waarde mag echter geen rekening worden gehouden met hetgeen een appartementseigenaar in het gedeelte dat hij als afzonderlijk geheel gebruikt, heeft aangebracht, tenzij hij hiervan tijdig aan de vereniging van eigenaars had kennis gegeven.
+2.	Zodra tot herstel is besloten, worden de verzekeringspenningen tot dit doel aangewend, met dien verstande dat de verhouding van de waarde van de appartementsrechten na het herstel dezelfde moet zijn als tevoren. Bij de berekening van die waarde mag echter geen rekening worden gehouden met veranderingen die een appartementseigenaar in het gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, heeft aangebracht, tenzij hij hiervan tijdig aan de vereniging van eigenaars had kennis gegeven.
 
 3.	Herstel van schade aan gedeelten die bestemd zijn om als afzonderlijk geheel te worden gebruikt, geschiedt zoveel mogelijk volgens de aanwijzingen van de appartementseigenaars die het aangaat.
 
@@ -981,15 +995,19 @@ Afdeling 4. Wijziging van de akte van splitsing en opheffing van de splitsing
 
 Artikel 139
 
-1.	Wijziging van de akte van splitsing kan slechts geschieden met medewerking van alle appartementseigenaars. Zij behoeft de toestemming van hen die een beperkt recht op een appartementsrecht hebben, alsmede van hen die daarop beslag hebben gelegd. Ook is toestemming nodig van de gerechtigden tot een erfdienstbaarheid, indien hun recht door de wijziging wordt verkort.
+1.	De akte van splitsing kan worden gewijzigd met medewerking van alle appartementseigenaars.
 
-2.	Indien de wijziging uitsluitend betrekking heeft op het reglement, is de toestemming van de beslagleggers niet nodig.
+2.	De wijziging kan ook met medewerking van het bestuur geschieden, indien het tot de wijziging strekkende besluit is genomen in de vergadering van eigenaars met een meerderheid van ten minste vier vijfden van het aantal stemmen dat aan de appartementseigenaars toekomt of met een zodanige grotere meerderheid als in de akte van splitsing is bepaald. De termijn voor oproeping tot de vergadering bedraagt ten minste vijftien dagen. Artikel 42 leden 1, eerste zin, 2, eerste zin, en 3 van Boek 2 is van overeenkomstige toepassing.
 
-3.	De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de daarbij behorende grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is artikel 109 lid 2 van overeenkomstige toepassing.
+3.	Wijziging van de akte van splitsing behoeft de toestemming van hen die een beperkt recht op een appartementsrecht hebben, van hen die daarop beslag hebben gelegd alsmede, indien een recht van erfpacht of opstal in de splitsing is betrokken, van de grondeigenaar. Ook is toestemming nodig van de gerechtigden tot een erfdienstbaarheid, indien hun recht door de wijziging wordt verkort.
+
+4.	Indien de wijziging uitsluitend betrekking heeft op het reglement, is de toestemming van de beslagleggers niet nodig.
+
+5.	De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is artikel 109 lid 2 van overeenkomstige toepassing.
 
 Artikel 140
 
-1.	Indien een of meer der in het eerste lid van het vorige artikel genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen, kan deze worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
+1.	Indien een of meer der in de leden 1 en 3 van het vorige artikel genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen, kan deze worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
 
 2.	De machtiging kan slechts worden verleend op verzoek van een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt.
 
@@ -997,9 +1015,17 @@ Artikel 140
 
 4.	Alle personen wier medewerking of toestemming ingevolge artikel 139 is vereist, worden bij name opgeroepen om op een verzoek als in de vorige leden bedoeld te worden gehoord.
 
+Artikel 140a
+
+1.	Op vordering van een appartementseigenaar die niet voor een overeenkomstig artikel 139 lid 2 bij meerderheid van stemmen genomen besluit tot wijziging van de akte van splitsing heeft gestemd, wordt het besluit bij rechterlijke uitspraak vernietigd.
+
+2.	De bevoegdheid om vernietiging te vorderen verjaart door verloop van drie maanden, welke termijn begint met de aanvang van de dag, volgende op die waarop het besluit door de vergadering van eigenaars is genomen.
+
+3.	De rechter kan de vordering afwijzen, wanneer de eiser geen schade lijdt of hem een redelijke schadeloosstelling wordt aangeboden en voor de betaling hiervan voldoende zekerheid is gesteld.
+
 Artikel 141
 
-1.	Bij gebreke van de in de twee voorgaande artikelen bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.
+1.	Bij gebreke van de in de artikelen 139 en 140 bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.
 
 2.	De bevoegdheid om vernietiging te vorderen verjaart door verloop van een jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop degeen die de vernietiging kan vorderen kennis heeft genomen van de wijziging dan wel hem schriftelijk van die wijziging mededeling is gedaan.
 
@@ -1017,14 +1043,14 @@ Artikel 143
 	a.	bij het eindigen van een in de splitsing betrokken recht van erfpacht of opstal, wanneer naast dit recht geen andere registergoederen in de splitsing betrokken zijn en de beëindiging niet gepaard gaat met de vestiging van een nieuw recht van erfpacht of opstal van de appartementseigenaars op dezelfde onroerende zaak;
 	b.	door inschrijving in de openbare registers van het vonnis waarbij een in de splitsing betrokken kadastraal perceel in zijn geheel is onteigend, wanneer geen andere percelen in de splitsing betrokken zijn.
 
-2.	In alle andere gevallen geschiedt de opheffing van de splitsing door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. De artikelen 139 lid 1, 140 leden 1, 2 en 4 en 141 zijn van overeenkomstige toepassing.
+2.	In alle andere gevallen geschiedt de opheffing van de splitsing door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. De artikelen 139 leden 1 en 3, 140 leden 1, 2 en 4 en 141 zijn van overeenkomstige toepassing.
 
 Artikel 144
 
 1.	Op verzoek van een persoon wiens medewerking of toestemming tot de wijziging van de akte van splitsing of tot opheffing van de splitsing is vereist, kan de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen, bevelen dat de akte van splitsing wordt gewijzigd dan wel de splitsing wordt opgeheven:
 	a.	wanneer de akte van splitsing niet voldoet aan de in de artikelen 111 en 112 gestelde vereisten;
-	b.	wanneer uit de inrichting van de gedeelten van het gebouw die bestemd zijn als afzonderlijk geheel te worden gebruikt, deze bestemming niet blijkt;
-	c.	wanneer de bouw of inrichting van het gebouw dan wel de inrichting van de daarbij behorende grond niet of niet meer beantwoordt aan de omschrijving in de akte van splitsing;
+	b.	wanneer uit de inrichting van de gedeelten van het gebouw of uit de inrichting of aanduiding van de gedeelten van de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, deze bestemming niet blijkt;
+	c.	wanneer de bouw of inrichting van het gebouw dan wel de inrichting of aanduiding van de grond niet of niet meer beantwoordt aan de omschrijving in de akte van splitsing;
 	d.	in geval van splitsing met toepassing van artikel 107, wanneer de stichting of de gewijzigde inrichting van het gebouw niet binnen een termijn van drie jaren te rekenen vanaf de dag van de inschrijving is voltooid;
 	e.	wanneer een recht van erfpacht of opstal dat naast een of meer andere registergoederen in de splitsing betrokken is, eindigt;
 	f.	wanneer een deel der in de splitsing betrokken registergoederen is uitgewonnen, een gedeelte van de kadastrale percelen is onteigend, of degene die de splitsing verricht heeft onbevoegd was over een deel der in de splitsing betrokken registergoederen te beschikken;
@@ -1037,7 +1063,7 @@ Artikel 144
 
 Artikel 145
 
-1.	De appartementseigenaars zijn verplicht aan een bevel als bedoeld in het vorige artikel uitvoering te geven, zodra de beschikking in kracht van gewijsde is gegaan. De in de artikelen 139 lid 1 en 143 lid 2 bedoelde toestemming is in dit geval niet vereist.
+1.	De appartementseigenaars zijn verplicht aan een bevel als bedoeld in het vorige artikel uitvoering te geven, zodra de beschikking in kracht van gewijsde is gegaan. De in de artikelen 139 leden 1 en 3 en 143 lid 2 bedoelde toestemming is in dit geval niet vereist.
 
 2.	Indien de kantonrechter met toepassing van artikel 300 van Boek 3 een vertegenwoordiger heeft aangewezen, stelt hij op verzoek van de meest gerede partij of ambtshalve diens salaris vast; het salaris komt ten laste van de vertegenwoordigde.
 
@@ -1053,4 +1079,4 @@ Artikel 147
 
 3.	De vereffenaar draagt hetgeen na voldoening der schuldeisers van het vermogen van de ontbonden vereniging is overgebleven, over aan hen die bij de opheffing van de splitsing appartementseigenaar waren, ieder voor een aandeel als bedoeld in artikel 113 lid 1.
 
-4.	De artikelen 23 lid 2, eerste zin, en lid 4 en 23c, lid 1, van Boek 2 zijn niet van toepassing. De in artikel 23b lid 4 van Boek 2 bedoelde nederlegging geschiedt binnen het arrondissement waar het gebouw of het grootste gedeelte daarvan is gelegen. In plaats van de in artikel 24, lid 2, van Boek 2 en artikel 995, eerste lid, tweede volzin, van het Wetboek van Burgerlijke Rechtsvordering aangewezen rechter geldt als bevoegd diezelfde rechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.
+4.	De artikelen 23 lid 1, derde zin, en lid 4 en 23c, lid 1, van Boek 2 zijn niet van toepassing. De in artikel 23b lid 4 van Boek 2 bedoelde nederlegging geschiedt binnen het arrondissement waar het gebouw of het grootste gedeelte daarvan is gelegen. In plaats van de in artikel 24, lid 2, van Boek 2 en artikel 995, eerste lid, tweede volzin, van het Wetboek van Burgerlijke Rechtsvordering aangewezen rechter geldt als bevoegd diezelfde rechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen.
