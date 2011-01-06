@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 5
-Geldend van 26-03-2008 t/m 30-06-2011
+Geldend van 01-07-2011 t/m 31-12-2013
 
 Burgerlijk Wetboek Boek 5, Zakelijke rechten
 
@@ -862,6 +862,8 @@ Artikel 121
 
 3.	Betreft het de aanbrenging van een nieuw werk of nieuwe installatie, dan kan de kantonrechter desverzocht ook een regeling vaststellen, bepalende dat en in welke verhouding de appartementseigenaars van alle of bepaalde appartementsrechten de kosten van onderhoud van het werk of de installatie in de toekomst zullen dragen.
 
+4.	Betreft het de medewerking of toestemming voor een handeling betreffende het beheer of het onderhoud van de onderscheiden gedeelten van het gebouw, waarvoor medewerking of toestemming is verleend door een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt, dan kan de machtiging ook worden verleend op verzoek van de gemeente waarin het gebouw is gelegen indien de staat van het gebouw niet voldoet aan artikel 1a, eerste lid, of 1b, tweede lid, van de Woningwet dan wel sprake is van een ernstige dreiging van het ontstaan van een zodanige situatie.
+
 Artikel 122
 
 1.	Overgang onder bijzondere titel of toedeling van een appartementsrecht omvat, voor zover niet anders is bepaald, mede de als appartementseigenaar verkregen rechten.
@@ -912,6 +914,8 @@ Artikel 126
 
 3.	De vereniging ziet toe op de nakoming van de verplichtingen die voor de appartementseigenaars uit het bij of krachtens de wet en het reglement bepaalde jegens elkander voortvloeien en kan te dien einde in rechte tegen hen optreden. Onder appartementseigenaars wordt hier begrepen hij die een gebruiksrecht aan een appartementseigenaar ontleent.
 
+4.	Zolang tweederde deel van de appartementsrechten niet is overgedragen onmiddellijk na oprichting van de vereniging van eigenaars, gaat de vereniging van eigenaars geen overeenkomsten voor onderhoud aan met een langere looptijd dan een jaar.
+
 Artikel 127
 
 1.	Alle appartementseigenaars hebben toegang tot de vergadering van eigenaars. De besluiten worden genomen bij volstrekte meerderheid van de uitgebrachte stemmen, voor zover de statuten niet anders bepalen.
@@ -919,6 +923,22 @@ Artikel 127
 2.	Tenzij de statuten anders bepalen, wordt de voorzitter van de vergadering van eigenaars door de vergadering uit de leden der vereniging benoemd. Zowel de voorzitter als het bestuur van de vereniging zijn bevoegd de vergadering bijeen te roepen.
 
 3.	In geval van ondersplitsing komen de stemmen van de appartementseigenaar wiens recht is gesplitst, toe aan de gerechtigden tot de door de ondersplitsing ontstane appartementsrechten. Deze stemmen worden in de vergadering van eigenaars uitgebracht door het bestuur van de bij de ondersplitsing opgerichte vereniging van eigenaars. De stemmen behoeven niet eensluidend te worden uitgebracht. De gerechtigden tot de door de ondersplitsing ontstane appartementsrechten zijn bevoegd de vergadering van eigenaars bij te wonen. Het bestuur, bedoeld in de tweede zin, is bevoegd om in de vergadering het woord te voeren.
+
+Artikel 127a
+
+1.	In geval van een ernstige dreiging van het ontstaan van een situatie waarin een gedeelte van het gebouw dat niet bestemd is voor gebruik als afzonderlijk geheel niet voldoet aan artikel 1a, eerste lid, of 1b, tweede lid, van de Woningwet, kan de gemeente op haar verzoek worden gemachtigd door de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen om:
+	a.	een vergadering van eigenaars bijeen te roepen op de wijze als in de statuten bepaald;
+	b.	de vergadering bij te wonen, daarin het woord te voeren en voorstellen te doen omtrent:
+		–	het beheer en het onderhoud van de onderscheiden gedeelten van het gebouw;
+		–	bijdragen aan het reservefonds;
+		–	het lidmaatschap van een andere vereniging of coöperatie met het oog op het onderhoud van de onderscheiden gedeelten van het gebouw;
+		–	de samenstelling van het bestuur;
+		–	het uitbesteden van het beheer aan een professionele beheerder;
+	c.	anderen dan bestuursleden te belasten met de leiding van de vergadering.
+
+2.	Bij de oproeping ingevolge het eerste lid wordt vermeld dat zij krachtens rechterlijke machtiging en voor rekening van de gemeente geschiedt. De oproeping, die geschiedt op de wijze zoals is bepaald in het reglement of de statuten van de vereniging van eigenaars, is rechtsgeldig, ook indien mocht blijken dat de machtiging ten onrechte was verleend.
+
+3.	Tegen de beschikking van de kantonrechter is generlei voorziening toegelaten, behoudens cassatie in het belang der wet.
 
 Artikel 128
 
@@ -1019,6 +1039,14 @@ Artikel 140
 
 Artikel 140a
 
+1.	Indien een of meer van de in de leden 1 en 3 van artikel 139 genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen voor een wijziging van het reglement voorgesteld op de voet van artikel 127a, eerste lid, onderdeel b, kan deze worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.
+
+2.	De machtiging kan slechts worden verleend op verzoek van de gemeente waarin het gebouw is gelegen, indien een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt zich voor de desbetreffende reglementswijziging heeft of hebben verklaard.
+
+3.	Alle personen van wie medewerking of toestemming ingevolge artikel 139 is vereist, worden bij name opgeroepen om op een verzoek als bedoeld in het tweede lid te worden gehoord.
+
+Artikel 140b
+
 1.	Op vordering van een appartementseigenaar die niet voor een overeenkomstig artikel 139 lid 2 bij meerderheid van stemmen genomen besluit tot wijziging van de akte van splitsing heeft gestemd, wordt het besluit bij rechterlijke uitspraak vernietigd.
 
 2.	De bevoegdheid om vernietiging te vorderen verjaart door verloop van drie maanden, welke termijn begint met de aanvang van de dag, volgende op die waarop het besluit door de vergadering van eigenaars is genomen.
@@ -1027,7 +1055,7 @@ Artikel 140a
 
 Artikel 141
 
-1.	Bij gebreke van de in de artikelen 139 en 140 bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.
+1.	Bij gebreke van de in de artikelen 139, 140 en 140a bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.
 
 2.	De bevoegdheid om vernietiging te vorderen verjaart door verloop van een jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop degeen die de vernietiging kan vorderen kennis heeft genomen van de wijziging dan wel hem schriftelijk van die wijziging mededeling is gedaan.
 
