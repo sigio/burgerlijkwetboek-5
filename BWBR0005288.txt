@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 5
-Geldend van 01-01-2014 t/m 31-08-2017
+Geldend van 01-09-2017 t/m 31-12-2017
 
 Burgerlijk Wetboek Boek 5, Zakelijke rechten
 
@@ -619,7 +619,7 @@ Artikel 94
 
 Artikel 95
 
-Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter verkrijging van een rechterlijke uitspraak die zowel het recht van de eigenaar als dat van de erfpachter betreft, is ieder van hen bevoegd, mits hij zorg draagt dat de ander tijdig in het geding wordt geroepen.
+Tot het instellen van rechtsvorderingen en het indienen van verzoeken ter verkrijging van een rechterlijke uitspraak die zowel het recht van de eigenaar als dat van de erfpachter betreft, is ieder van hen bevoegd, mits hij zorg draagt dat de ander tijdig in het geding wordt geroepen.
 
 Artikel 96
 
@@ -791,6 +791,26 @@ Artikel 115
 1.	Wanneer een recht van erfpacht of opstal in de splitsing wordt betrokken, wordt de canon of retributie die daarna opeisbaar wordt, over de appartementsrechten verdeeld in een verhouding als bedoeld in artikel 113 lid 2.
 
 2.	De vereniging van eigenaars is hoofdelijk verbonden voor de door een of meer appartementseigenaars verschuldigde canon of retributie.
+
+Artikel 116
+
+[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
+
+1.	Wanneer een recht van erfpacht of opstal in de splitsing betrokken is, geldt ter aanvulling van de artikelen 87 leden 2 en 3 en 88 het in de volgende leden bepaalde.
+
+2.	Opzegging van het recht wegens verzuim in de betaling van de canon of retributie kan slechts geschieden, wanneer de gehele canon of retributie over twee achtereenvolgende jaren onbetaald is gebleven.
+
+3.	Rust op een of meer appartementsrechten een beperkt recht of een beslag dan zijn artikel 87 lid 2, tweede zin, en artikel 88 lid 2 mede van overeenkomstige toepassing met betrekking tot dit beperkte recht of dit beslag.
+
+4.	Is het voor een appartementsrecht verschuldigde deel van de canon of retributie over de twee achtereenvolgende jaren onbetaald gebleven, dan kan het appartementsrecht door de rechter op vordering van de grondeigenaar aan deze worden toegewezen. Het oproepingsbericht moet op straffe van niet-ontvankelijkheid binnen acht dagen worden betekend aan hen die als beperkt gerechtigde of beslaglegger op het appartementsrecht in de openbare registers staan ingeschreven.
+
+5.	Door inschrijving in de openbare registers van het vonnis waarbij de toewijzing is uitgesproken, gaat het appartementsrecht op de grondeigenaar over en gaan de daarop rustende beperkte rechten en beslagen teniet. Deze inschrijving geschiedt niet, voordat het vonnis in kracht van gewijsde is gegaan. Na deze inschrijving is de grondeigenaar verplicht de waarde die het appartementsrecht heeft op het tijdstip van de inschrijving aan de gewezen appartementseigenaar te vergoeden, na aftrek van hetgeen hij uit hoofde van de erfpacht van de gewezen appartementseigenaar te vorderen heeft, de kosten daaronder begrepen.
+
+6.	In de akte van vestiging kan worden aangegeven op welke wijze de waarde als bedoeld in het vorige lid zal worden bepaald.
+
+7.	Ieder beding dat ten nadele van een appartementseigenaar van dit artikel afwijkt, is nietig.
+
+[Red: Voor overige gevallen luidt het artikel als volgt:]
 
 Artikel 116
 
