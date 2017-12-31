@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 5
-Geldend van 01-09-2017 t/m 31-12-2017
+Geldend van 01-01-2018 t/m 18-09-2018
 
 Burgerlijk Wetboek Boek 5, Zakelijke rechten
 
@@ -776,7 +776,9 @@ Artikel 113
 
 4.	Indien de appartementseigenaars voor een in lid 2 genoemde schuld gezamenlijk aansprakelijk zijn, is de vereniging voor die schuld hoofdelijk verbonden.
 
-5.	Voor de schulden der vereniging zijn zij die appartementseigenaar waren ten tijde van het ontstaan van de schuld, met de vereniging hoofdelijk verbonden, en wel, indien de prestatie deelbaar is, ieder voor een deel in de verhouding bedoeld in lid 2.
+5.	Voor de schulden der vereniging zijn zij die appartementseigenaar waren ten tijde van het ontstaan van de schuld, met de vereniging hoofdelijk verbonden, en wel, indien de prestatie deelbaar is, ieder voor een deel in de verhouding bedoeld in lid 2. Indien de schuld een geldlening is als bedoeld in artikel 126 lid 4, wordt in het geval van overgang onder bijzondere titel of toedeling van een appartementsrecht de appartementseigenaar bij de overdracht of toedeling ontslagen uit zijn aansprakelijkheid voor die schuld, voor zover ten aanzien van die schuld overeenkomstig artikel 122 lid 5 aan de aldaar bedoelde verkrijger opgave is gedaan.
+
+6.	Voor de toepassing van de leden 2 en 3 is de uit een geldlening als bedoeld in artikel 126 lid 4 voortvloeiende schuld deelbaar.
 
 Artikel 114
 
@@ -894,9 +896,9 @@ Artikel 122
 
 4.	In het reglement kan worden bepaald in hoeverre voor bijdragen, genoemd in het vorige lid, alleen de vroegere eigenaar of alleen de verkrijger aansprakelijk zal zijn. In het reglement kan ook worden bepaald dat voor bepaalde bijdragen die later opeisbaar worden de vroegere appartementseigenaar in plaats van de verkrijger verbonden zal zijn.
 
-5.	De notaris draagt zorg dat aan de akte van overdracht of toedeling een door het bestuur van de vereniging van eigenaars afgegeven verklaring wordt gehecht, die met betrekking tot de in lid 3 genoemde bijdragen waarvoor de verkrijger aansprakelijk zal zijn, een opgave inhoudt van hetgeen de betrokken appartementseigenaar op de dag van de overdracht of toedeling aan de vereniging schuldig is. De verkrijger is jegens de vereniging niet verder aansprakelijk dan tot het bedrag dat uit de opgave blijkt.
+5.	De notaris draagt zorg dat aan de akte van overdracht of toedeling een door het bestuur van de vereniging van eigenaars afgegeven verklaring wordt gehecht, die met betrekking tot de in lid 3 genoemde bijdragen en de in artikel 113 lid 2 en lid 5 genoemde schulden waarvoor de verkrijger aansprakelijk zal zijn, een opgave inhoudt van hetgeen de betrokken appartementseigenaar op de dag van de overdracht of toedeling aan de vereniging schuldig is en van hetgeen waarvoor de betrokken appartementseigenaar op de dag van de overdracht of toedeling aansprakelijk is. De verkrijger is jegens de vereniging en wat betreft de op grond van artikel 126 lid 4 aangegane lening tevens jegens derden, niet verder aansprakelijk dan tot het bedrag dat uit de opgave blijkt.
 
-6.	De verklaring houdt tevens een opgave in van de omvang van het reservefonds van de vereniging, bedoeld in artikel 126 lid 1.
+6.	De verklaring houdt tevens een opgave in van de omvang van het reservefonds, bedoeld in artikel 126 lid 1, en van de schulden van de vereniging.
 
 Artikel 123
 
@@ -906,7 +908,7 @@ Artikel 123
 
 3.	Tenzij bij de instelling van het vruchtgebruik anders wordt bepaald wordt het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de vruchtgebruiker.
 
-4.	Artikel 122 is van overeenkomstige toepassing bij de vestiging, bij overdracht en bij het einde van het vruchtgebruik van een appartementsrecht.
+4.	Artikel 122 en artikel 113 lid 5, tweede volzin, zijn van overeenkomstige toepassing bij de vestiging, bij overdracht en bij het einde van het vruchtgebruik van een appartementsrecht.
 
 Afdeling 2. De vereniging van eigenaars
 
@@ -930,11 +932,19 @@ Artikel 126
 
 1.	De vereniging van eigenaars voert het beheer over de gemeenschap, met uitzondering van de gedeelten die bestemd zijn als afzonderlijk geheel te worden gebruikt. De vereniging houdt een reservefonds in stand ter bestrijding van andere dan de gewone jaarlijkse kosten.
 
-2.	De vereniging kan binnen de grenzen van haar bevoegdheid de gezamenlijke appartementseigenaars in en buiten rechte vertegenwoordigen.
+2.	De jaarlijkse reservering ten behoeve van het reservefonds, bedoeld in het vorige lid, bedraagt ten aanzien van een voor bewoning bestemd gebouw, met inbegrip van een gebouw dat gedeeltelijk voor bewoning is bestemd:
+	a.	ten minste het bedrag dat is vastgesteld door de vergadering van eigenaars ter uitvoering van een door de vergadering van eigenaars vastgesteld onderhoudsplan van ten hoogste vijf jaren oud ten aanzien van de gedeelten die niet bestemd zijn om als afzonderlijk geheel te worden gebruikt, dat betrekking heeft op een periode van ten minste tien jaar en waarin de benodigde onderhouds- en herstelwerkzaamheden alsmede de geplande vernieuwingen zijn opgenomen daaronder mede begrepen een berekening van de aan die werkzaamheden en vernieuwingen verbonden kosten en een gelijkmatige toerekening van die kosten aan de onderscheiden jaren; of
+	b.	ten minste 0,5% procent van de herbouwwaarde van het gebouw.
 
-3.	De vereniging ziet toe op de nakoming van de verplichtingen die voor de appartementseigenaars uit het bij of krachtens de wet en het reglement bepaalde jegens elkander voortvloeien en kan te dien einde in rechte tegen hen optreden. Onder appartementseigenaars wordt hier begrepen hij die een gebruiksrecht aan een appartementseigenaar ontleent.
+3.	In een reservefonds ten aanzien van een gebouw als bedoeld in het vorige lid, aanhef, worden de bijdragen gedeponeerd op een afzonderlijke betaalrekening of spaarrekening als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, ten name van de vereniging van eigenaars. Van de vorige volzin kan slechts worden afgeweken bij reglement, bij besluit van de vergadering van eigenaars, genomen met een meerderheid van ten minste vier vijfde van het aantal stemmen dat aan de appartementseigenaars toekomt, of door middel van het ten behoeve van de bijdragen verstrekken van een bankgarantie ten name van de vereniging van eigenaars.
 
-4.	Zolang tweederde deel van de appartementsrechten niet is overgedragen onmiddellijk na oprichting van de vereniging van eigenaars, gaat de vereniging van eigenaars geen overeenkomsten voor onderhoud aan met een langere looptijd dan een jaar.
+4.	Tenzij het reglement uitdrukkelijk anders bepaalt, is de vereniging bevoegd een overeenkomst van geldlening aan te gaan.
+
+5.	De vereniging kan binnen de grenzen van haar bevoegdheid de gezamenlijke appartementseigenaars in en buiten rechte vertegenwoordigen.
+
+6.	De vereniging ziet toe op de nakoming van de verplichtingen die voor de appartementseigenaars uit het bij of krachtens de wet en het reglement bepaalde jegens elkander voortvloeien en kan te dien einde in rechte tegen hen optreden. Onder appartementseigenaars wordt hier begrepen hij die een gebruiksrecht aan een appartementseigenaar ontleent.
+
+7.	Zolang tweederde deel van de appartementsrechten, daaronder mede begrepen het aan die appartementsrechten verbonden aantal stemmen, niet is overgedragen onmiddellijk na oprichting van de vereniging van eigenaars, gaat de vereniging van eigenaars geen overeenkomsten voor onderhoud aan met een langere looptijd dan een jaar.
 
 Artikel 127
 
